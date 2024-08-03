@@ -1,0 +1,6 @@
+@wcom_HostAddress = http://localhost:5031
+
+GET {{wcom_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
